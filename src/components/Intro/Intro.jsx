@@ -31,7 +31,9 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
           <span>Aasif Aahaan!</span>
           <span>
-            A Java Developer is a programmer who designs, develops, and manages Java-based applications and software. With most large organizations using Java to implement software systems and backend services, a Java developer is one of the most sought-after jobs today.
+            A self-motivated, achievement-oriented professional having consolidated experience in Java Developer, Spring Boot, Client Relationship Management with great exposure to Create Projects.
+            An excellent team player with a strong ability to give attention to detail and excellent verbal and written communication skills
+            To be associated with progressive and innovative organisation that gives scope to apply my knowledge and skills, and to be a part of a team that dynamically works towards the growth of the organisation.
           </span>
         </div>
 
